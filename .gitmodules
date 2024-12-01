@@ -1,0 +1,6 @@
+[submodule "themes/archie"]
+	path = themes/archie
+	url = https://github.com/kavindu-udara/archie.git
+[submodule "public"]
+	path = public
+	url = https://github.com/kavindu-udara/me.git
